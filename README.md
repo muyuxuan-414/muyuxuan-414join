@@ -5,4 +5,4 @@
 # 加入社团后想要获得的知识
 加入社团后，我希望能学习更多专业知识，也希望能结识更多志同道合的朋友，大家互相学习、共同进步。此外，我还希望能够参与到社团的实践中去，通过实际操作来丰富经验和提升自己的能力。
 # 照片
-我推的桃星托七![cf16348ac36506787cb551a6fe29340](https://github.com/user-attachments/assets/ea7b9ec7-d15a-4a9c-b0f7-0512ed3e81c2)
+![0001](https://github.com/user-attachments/assets/636efd11-3c99-4b4d-a607-262ba42830c6)
