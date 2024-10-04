@@ -6,6 +6,7 @@
 ![0001](https://github.com/user-attachments/assets/636efd11-3c99-4b4d-a607-262ba42830c6)
 设计思路：秋天到了适合吃烤红薯
 技术实现：所有物体都是由立方体或柱体通过调整顶点、边和面制成，为了制作出更逼真的效果，其中红薯皮和柴火在线模式按k分割出来一部分然后删掉使其产生一些痕迹，但是柴火放在炉子里被劈过的痕迹都被挡死了。<img width="876" alt="柴火被劈的痕迹" src="https://github.com/user-attachments/assets/4fd35a47-f0c3-463b-b8c6-172398a1f716">
+
 炉子把手和炉子腿导入了木材贴图，柴火导入了树皮贴图，火苗增加了自发光和颜色渐变，其他部分调整了金属度、糙度和折射率，使物体更加生动。
 ![596329ed5637e70d0907ed0b6a62050](https://github.com/user-attachments/assets/8bbc1709-4f58-4bba-9091-5e4e91047225)
 技术实现：用ts4simripper把人物从游戏中导出，用sim4studio导出动作追加进blender。
